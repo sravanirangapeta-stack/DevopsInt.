@@ -1,0 +1,2 @@
+# DevopsInt.
+simple registration page
